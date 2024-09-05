@@ -1,2 +1,2 @@
-# DISFA24_24
+# DISFA24_PY
 our first try of creating a pythin experiment 
